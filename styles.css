@@ -72,6 +72,7 @@ main {
     padding: 0;
     color: rgba(65, 63, 63, 0.816);
     text-align: left;
+    cursor: pointer;
 }
 
 #header header {
